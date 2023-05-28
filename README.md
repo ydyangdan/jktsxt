@@ -19,7 +19,7 @@
 
 # 前端页面
 教师主页面
-![教师主页面](./zxtkxt_vue/public/images/jktsxt_1.png)
+![教师主页面](./jktsxt_vue/public/images/jktsxt_1.png)
 
 管理员主页面
-![管理员主页面](./zxtkxt_vue/public/images/jktsxt_2.png)
+![管理员主页面](./jktsxt_vue/public/images/jktsxt_2.png)
